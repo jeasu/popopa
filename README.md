@@ -2,9 +2,9 @@ PoPoPa
 ======
 PoPoPa는 공동 작업 프로젝트의 일정을 관리해주는 프로그램이다. Gantt 챠트 형태로 일정을 한 눈에 볼 수 있게 제공하며, 보고 있는 Gantt 챠트 화면에서 바로 일정을 추가, 편집할 수 있다. 일정마다 메모나 이슈 추가를 통해 이슈 관리 기능을 제공한다. Gantt 챠트 형태로 관리되는 일정을 실시간으로 주간보고서나, 월간보고서로 취합하여 출력할 수 있으며, 주간보고서나 월간보고서에 팀원 전체를 포함하여 한꺼번에 보고서를 출력 가능하게 하는 기능도 제공한다.
 
-[Gantt 챠트 형태의 일정 관리](screenshot/gantt.png?raw=true "Gantt 챠트 형태의 일정 관리")
+![Alt Gantt 챠트 형태의 일정 관리](screenshot/gantt.png?raw=true "Gantt 챠트 형태의 일정 관리")
 
-![실시간 주간 보고](screenshot/weekly.png?raw=true "실시간 주간 보고")
+![Alt 실시간 주간 보고](screenshot/weekly.png?raw=true "실시간 주간 보고")
 
 ![Alt 실시간 월간 보고](screenshot/monthly.png?raw=true "실시간 월간 보고")
 

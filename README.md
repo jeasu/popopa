@@ -24,5 +24,4 @@ PoPoPa는 JEE 기반의 Web Application으로써, Dynamic Web Module 3.0 이상�
 ### 다국어 지원
 PoPoPa는 Web Browser에 설정된 언어에 따른 언어로 자동 표시되도록 언어팩 기능을 제공한다. 현재, 한국어, 영어, 일본어를 자체 내장하고 있으며, 필요시 직접 언어 팩을 만들어 사용할 수도 있다. Web Browser에 설정된 언어와 상관없이 특정 언어로만 사용할 수 있는 기능을 시스템 설정 및 개인 설정으로 할 수 있게 제공한다.
 
-### 다운로드
-PoPoPa는 2014년 7월 7일에 1.3 버전 릴리즈를 함과 동시에 무료로 다운받게 GitHub에 올려 놓을 예정이다. 일정은 개인적 사정으로 인해 다소 밀어질 수도 있다.
+![Alt 언어팩 지원](screenshot/languages.png?raw=true "언어팩 지원")

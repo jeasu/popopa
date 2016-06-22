@@ -20,6 +20,7 @@ PoPoPa는 공동 작업 프로젝트의 일정을 관리해주는 프로그램�
 PoPoPa는 JEE 기반의 Web Application으로써, Dynamic Web Module 3.1 이상을 지원하는 WAS를 사용가능한 모든 Server OS에 설치가 가능하다. Client PC 환경은 별도의 Client용 프로그램 설치가 필요없고, HTML5를 지원하는 Web Browser를 통해 언제 어디서나 PoPoPa가 설치된 Server에 접속하면 바로 사용이 가능하다.
 
 ![Alt HTML5 지원 Woeb Brwser 통해 접속 가능](images/html5.png?raw=true "HTML5 지원 Web Browser 통해 접속 가능")
+
 ![Alt Internet Explorer 9 ~ 10 지원](images/ie9_11.png?raw=true "Internet Explorer 9 ~ 10 지원")
 
 ### 다국어 지원
